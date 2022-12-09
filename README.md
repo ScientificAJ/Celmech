@@ -1,2 +1,8 @@
 # Celmech
-An astronomy terminal app to get live position data about planets
+An astronomy terminal app to get live position data about planets/planemo
+
+You can add the planet you want to get the position and distance from like this:
+
+Celestial Object (eg Planets, Dwarf Planet, Planetoid): Pluto
+
+Data..
