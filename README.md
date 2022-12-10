@@ -10,4 +10,4 @@ Data..
 
 # What's New
 
-You can see the Moons phase
+You can see the Moon's current  phase
