@@ -6,3 +6,8 @@ You can add the planet you want to get the position and distance from like this:
 Celestial Object (eg Planets, Dwarf Planet, Planetoid): Pluto
 
 Data..
+
+
+# What's New
+
+You can see the Moons phase
