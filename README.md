@@ -1,5 +1,5 @@
 # Celmech
-An astronomy terminal app to get live position data about planets/dwarf planets
+An astronomy terminal app to get live position data about planets (a class of planemos that abide IAU's 3 rules for a planet)  and dwarf planets
 
 You can add the planet you want to get the position and distance from like this:
 
